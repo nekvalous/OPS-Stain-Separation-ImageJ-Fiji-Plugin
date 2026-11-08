@@ -3,7 +3,7 @@ Stain separation using the 2D Orthogonal Planes Split
 
 
 
-![OPS illustration](OPS%20Figure.png)
+<img src="OPS%20Figure.png" alt="OPS illustration" width="233">
 
 
 
