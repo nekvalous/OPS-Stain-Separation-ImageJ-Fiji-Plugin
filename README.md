@@ -1,4 +1,4 @@
-# OPS-Stain-Separation
+# OPS-Stain-Separation (ImageJ/Fiji plugin)
 Stain separation using the 2D Orthogonal Planes Split
 
 
