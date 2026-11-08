@@ -3,6 +3,10 @@ Stain separation using the 2D Orthogonal Planes Split
 
 
 
+!(Screenshots/OPS Figure.png)
+
+
+
 1. VERSION AND AUTHOR
 
 Version: 1.9.1
